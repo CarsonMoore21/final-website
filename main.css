@@ -1,0 +1,26 @@
+body {
+    
+
+    text-align: center;
+                font-family: oswald, monospace;
+                font-weight: bolder;
+                font-size: 20px;    
+                color: hwb(0 0% 100%);
+}
+
+.center {
+    background-color: #253c78;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+
+h1 {
+    font-size: 45px;
+    color: goldenrod;
+    font-family: rockwell;
+    -webkit-text-stroke: 2px black;
+}
